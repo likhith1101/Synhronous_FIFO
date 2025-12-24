@@ -12,6 +12,7 @@ A FIFO (First-In, First-Out) is a type of data buffer or queue where the first p
 
 
 ![pixelcut-export (1)](https://github.com/user-attachments/assets/3e4287d3-95fc-4d22-8763-ed2a407acb5c)
+<img width="591" height="363" alt="Screenshot 2025-12-24 162615" src="https://github.com/user-attachments/assets/460508c4-a30a-4397-bd6c-ca85a51f79ca" />
 
 
 
